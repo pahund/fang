@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "start": "node -r dotenv/config src/index.js"
+    "usb-device-info": "node -r dotenv/config src/runUsbDeviceInfo.js"
   },
   "repository": {
     "type": "git",
